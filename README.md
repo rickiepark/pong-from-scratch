@@ -1,1 +1,1 @@
-# pong-tensorflow
+# pong-from-scratch
