@@ -1,4 +1,4 @@
-name: pong-tensorflow
+name: pong-from-scratch
 dependencies:
 - python=2
 - ipython
