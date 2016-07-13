@@ -1,0 +1,13 @@
+name: pong-tensorflow
+dependencies:
+- python=2
+- ipython
+- ipython-notebook
+- scipy
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+- pip:
+    - watermark
+    - gym[atari]
